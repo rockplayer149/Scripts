@@ -1,0 +1,15 @@
+1. boot in to bootloader
+2. Open cmd
+3. Type fastboot flash boot twrpname.img
+4. Click on wipe
+5. Click on format data
+6. Type yes
+8. Press recovery ( this will boot in to twrp )
+9. Now select wipe and wipe everything except memorycard
+13. Flash pixel experience
+14. change to alternative slot
+15. Flash stock-perf-10.0-kernel.zip
+16. Select wipe
+17. Select advance wipe
+18. Select all except system,vendor
+19. Reboot to System
